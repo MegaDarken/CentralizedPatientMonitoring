@@ -1,0 +1,7 @@
+C:\Users\Josheph Swales\source\repos\CentralPatientMonitoring\CentralPatientMonitoring\bin\Debug\CentralPatientMonitoring.exe.config
+C:\Users\Josheph Swales\source\repos\CentralPatientMonitoring\CentralPatientMonitoring\bin\Debug\CentralPatientMonitoring.exe
+C:\Users\Josheph Swales\source\repos\CentralPatientMonitoring\CentralPatientMonitoring\bin\Debug\CentralPatientMonitoring.pdb
+C:\Users\Josheph Swales\source\repos\CentralPatientMonitoring\CentralPatientMonitoring\obj\Debug\CentralPatientMonitoring.csprojAssemblyReference.cache
+C:\Users\Josheph Swales\source\repos\CentralPatientMonitoring\CentralPatientMonitoring\obj\Debug\CentralPatientMonitoring.csproj.CoreCompileInputs.cache
+C:\Users\Josheph Swales\source\repos\CentralPatientMonitoring\CentralPatientMonitoring\obj\Debug\CentralPatientMonitoring.exe
+C:\Users\Josheph Swales\source\repos\CentralPatientMonitoring\CentralPatientMonitoring\obj\Debug\CentralPatientMonitoring.pdb
